@@ -1,0 +1,7 @@
+{
+  "name": "polyer-tutorials",
+  "short_name": "polyer-tutorials",
+  "description": "tutorials for polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
