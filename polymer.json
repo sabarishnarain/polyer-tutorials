@@ -1,4 +1,10 @@
 {
+  "entrypoint": "index.html",
+  "shell": "src/shop-app.html",
+  "sources": [
+   "src/**/*",
+   "assets/**/*"
+  ],
   "npm": true,
   "lint": {
     "rules": [
